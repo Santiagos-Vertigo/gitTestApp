@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Report</title>
+    <style>
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ccc; padding: 8px; }
+        th { background-color: #f4f4f4; }
+    </style>
+</head>
+<body>
+    <h1>Employee Report</h1>
+
+    <table>
+        <tr>
+            {% for key in employees[0].keys() %}
+            <th>{{ key }}</th>
+            {% endfor %}
+        </tr>
+
+        {% for emp in employees %}
+        <tr>
+            {% for value in emp.values() %}
+            <td>{{ value }}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
