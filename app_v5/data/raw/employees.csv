@@ -1,0 +1,6 @@
+employee_id,name,department,salary,hire_date,active
+101,Alice Johnson,Engineering,95000,2019-03-15,True
+102,Bob Smith,Sales,72000,2020-07-01,True
+103,Carol White,Engineering,105000,2018-11-20,True
+104,Dan Brown,HR,68000,2021-01-10,False
+105,Eva Green,Sales,73000,2019-06-05,True

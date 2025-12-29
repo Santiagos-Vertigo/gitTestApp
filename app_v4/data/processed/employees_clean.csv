@@ -1,0 +1,6 @@
+employee_id,name,department,salary,active
+101,Alice,Engineering,95000.0,True
+102,Bob,Sales,72000.0,True
+103,Charlie,Engineering,77500.0,
+104,Diana,HR,68000.0,True
+105,Evan,Sales,75000.0,True
