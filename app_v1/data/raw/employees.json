@@ -1,0 +1,26 @@
+[
+  {
+    "employee_id": 101,
+    "name": "Alice Johnson",
+    "department": "Engineering",
+    "salary": 95000,
+    "hire_date": "2019-03-15",
+    "active": true
+  },
+  {
+    "employee_id": 102,
+    "name": "Bob Smith",
+    "department": "Sales",
+    "salary": 72000,
+    "hire_date": "2020-07-01",
+    "active": true
+  },
+  {
+    "employee_id": 103,
+    "name": "Carol White",
+    "department": "HR",
+    "salary": 68000,
+    "hire_date": "2018-11-20",
+    "active": true
+  }
+]

@@ -1,0 +1,18 @@
+<employees>
+  <employee>
+    <employee_id>101</employee_id>
+    <name>Alice Johnson</name>
+    <department>Engineering</department>
+    <salary>95000</salary>
+    <hire_date>2019-03-15</hire_date>
+    <active>true</active>
+  </employee>
+  <employee>
+    <employee_id>102</employee_id>
+    <name>Bob Smith</name>
+    <department>Sales</department>
+    <salary>72000</salary>
+    <hire_date>2020-07-01</hire_date>
+    <active>true</active>
+  </employee>
+</employees>

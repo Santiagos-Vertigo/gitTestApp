@@ -1,0 +1,21 @@
+{
+  "company": "TestCorp",
+  "employees": [
+    {
+      "id": 101,
+      "profile": {
+        "name": "Alice Johnson",
+        "department": "Engineering"
+      },
+      "salary": 95000
+    },
+    {
+      "id": 102,
+      "profile": {
+        "name": "Bob Smith",
+        "department": "Sales"
+      },
+      "salary": 72000
+    }
+  ]
+}
